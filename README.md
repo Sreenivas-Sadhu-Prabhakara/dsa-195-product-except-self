@@ -12,6 +12,13 @@ Split each answer at its own index: everything to the left times everything to t
 
 **Complexity:** O(n) time, O(1) extra space.
 
+## Visual walkthrough
+
+Read the picture top to bottom — each numbered frame is one moment of the algorithm
+running on this repo's test example.
+
+![Step-by-step visual walkthrough](viz.svg)
+
 ## Run
 
     go test ./...   # verify
